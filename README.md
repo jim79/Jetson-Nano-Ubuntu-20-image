@@ -1,4 +1,6 @@
 # Jetson Nano with Ubuntu 20.04 OS image
+## This page contains the backup images from the original git repo.
+
 ![output image]( https://qengineering.eu/images/SDcard32GBJetsonUB20.webp )<br/><br/>
 ![output image]( https://qengineering.eu/images/ScreenUb20_2.webp )<br/><br/>
 ![output image]( https://qengineering.eu/images/JetsonUB20version.webp )<br/><br/>
