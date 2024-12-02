@@ -1,9 +1,8 @@
 # Jetson Nano with Ubuntu 20.04 OS image
-## This page contains the backup images from the original git repo.
 
-![output image]( https://qengineering.eu/images/SDcard32GBJetsonUB20.webp )<br/><br/>
-![output image]( https://qengineering.eu/images/ScreenUb20_2.webp )<br/><br/>
-![output image]( https://qengineering.eu/images/JetsonUB20version.webp )<br/><br/>
+## This page contains the backup images from the original git repo.
+Bare-bones Ubuntu 20.04 OS with JetPack 4.6.1, without TensorFlow and PyTorch
+
 ## A Jetson Nano - Ubuntu 20.04 image with OpenCV, TensorFlow and Pytorch
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 ### Update 9-17-2023. 
